@@ -23,8 +23,8 @@ void loop() {
   }
 }
 
-void nomor(byte number){
+void number(byte rate){
   for(byte i = 0; i<=6; i++){
-    digitalWrite(pin[i], digit[angka][i]); 
+    digitalWrite(pin[i], digit[rate][i]); 
   }
 }
