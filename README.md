@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ahnafzm
-- 👀 I’m interested in data science anf machine learning
-- 🌱 I’m currently learning phyton which is integrated with data science
+- 👀 I’m interested in Artificial Intelegent especially Computer Vision and NLP
 - 💞️ I’m looking to collaborate on machine learning and arduino project
 - 📫 You can contact me on my instagram @ahnafzm
 
